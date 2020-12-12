@@ -25,6 +25,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "f6464bb98b7089501bbd504142ab8e36",
-    "url": "https://sajanstha1437.github.io/React/static/media/corona.f6464bb9.png"
+    "url": "static/media/corona.f6464bb9.png"
   }
 ]);
